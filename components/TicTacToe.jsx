@@ -1,5 +1,5 @@
 import '../css/style.css';
-import React, { useEffect, useReducer, useCallback } from 'react';
+import React, { useEffect, useReducer } from 'react';
 import Table from './Table';
 
 const initialState = {
